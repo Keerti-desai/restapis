@@ -1,0 +1,264 @@
+
+
+db.datafile.insert(
+    [
+    {
+      
+      "item_code": 1,
+      "category": "Nykaa Cosmetics",
+      "product_name": "Nykaa Matte To Last ! Liquid Lipstick",
+      "brand":"Lakme",
+      "rating": "★★★★✩",
+      "price": "400",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/b/4be13ef8904245711023_1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."
+
+    },
+    {
+      "item_code": 2,
+      "category": "Nykaa Cosmetics",
+      "product_name": "Nykaa Matte-Glam Squad",
+      "brand":"Lakme",
+      "rating": "★★★★✩",
+      "price": "650",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/d/3dce9d86902395472643_1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."
+
+    },
+    {
+      "item_code": 3,
+      "category": "Nykaa Cosmetics",
+      "product_name": "Nykaa Matte To Last!",
+      "brand":"L'Oreal Paris",
+      "rating": "★★★✩✩",
+      "price": "900",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/9/8904330901438_1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."
+
+    },
+    {
+      "item_code": 4,
+      "category": "Nykaa Cosmetics",
+      "product_name": "Nykaa Matte To Last!",
+      "brand":"L'Oreal Paris",
+      "rating": "★★★★★",
+      "price": "599",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/6/26519168902656102799-1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."
+},
+    {
+      "item_code": 5,
+      "category": "Nykaa Cosmetics",
+      "product_name": "Nykaa Matte To Last!",
+      "brand":"L'Oreal Paris",
+      "rating": "★★★★✩",
+      "price": "899",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/6/86e54768904245708955_1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."
+
+    },
+    {
+      "item_code": 1,
+      "category": " Liquid Lipstick",
+      "product_name": "Nykaa Sealed with a Kiss!",
+      "brand":"Lustrous Lipstick",
+      "rating": "★★★★✩",
+      "price": "899",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/4/44161d424551_H-8901030758942.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."
+
+    },
+    {
+      "item_code": 2,
+      "category": " Liquid Lipstick",
+      "product_name": "Nykaa Get Set Matte!",
+      "brand":" Lustrous Lipstick	",
+       "rating": "★★★★✩",
+      "price": "349",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/a/0ac71d424859_H-8901030794773.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."
+    },
+    {
+      "item_code": 3,
+      "category": "Liquid Lipstick",
+      "product_name": "Nykaa Gloss it Up!",
+      "brand":"Maybelline",
+
+      "rating": "★★★★★",
+     "price": "229",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/0/b0131d423866_H-8901030729829.jpg",  
+      "description": "Nyka Matte Ink Liquid Lipstick."
+    },
+    {
+      "item_code": 4,
+      "category": " Liquid Lipstick",
+      "product_name": "Nykaa All Day Matte",
+      "brand":"Maybelline",
+
+      "rating": "★★★★★",
+      "price": "519",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/d/7dce139LAKME00000469_1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."
+    },
+    {
+      "item_code": 5,
+      "category": "Liquid Lipstick",
+      "product_name": "Nykaa Matte to Last!",
+      "brand":"Maybelline",
+    "rating": "★★★★✩",
+      "price": "130",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/8/c8818dbLAKME00000484_1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."    },
+    {
+      "item_code": 1,
+      "category": "Face Masks",
+      "product_name": "Printed Masks Medium",
+      "brand":"Hydrating masks",
+      "rating": "★★★★✩",
+      "price": "999",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/5/0543d788904035422467-1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick." 
+    },
+    {
+      "item_code": 2,
+      "category": "Face Masks",
+      "product_name": "Livinguard Face Mask",
+      "brand":"Hydrating masks",
+
+      "rating": "★★★★✩",
+      "price": "999",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/1/c/1ced7cb8904245710521_1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."
+    },
+    {
+      "item_code": 3,
+      "category": "Face Masks",
+      "product_name": "Livinguard Face Mask",
+      "brand":"Lancer Skincare",
+
+      "rating": "★★★★✩",
+      "price": "159",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/e/4e33710O3XXX00000076_1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."     },
+    {
+      "item_code": 4,
+      "category": "Face Masks",
+      "product_name": "FFP2 S Mask",
+      "brand":"Fridays Jet Lag Mask",
+      "rating": "★★★★✩",
+      "price": "299",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/f/3f82ffcSKINQ00000013_1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick." 
+    },
+    {
+      "item_code": 5,
+      "category": "Face Masks",
+      "product_name": "Indian Sheet Mask",
+      "rating": "★★★★✩",
+      "brand":"Fridays Jet Lag Mask",
+      "price": "129",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/a/9/a94edca8906060213706_1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick." 
+    },
+    {
+      "item_code": 1,
+      "category": "Hand sanitiseres",
+      "product_name": "Aroma Magic Sanitiser",
+      "rating": "★★★★✩",
+      "brand":"ClimbOn Hand Spray",
+     "price": "199",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/8/78a7c718904089801386_1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."     },
+    {
+      "item_code": 2,
+      "category": "Hand sanitiseres",
+      "product_name": "Sanitizer + moisturizer ",
+      "rating": "★★★★✩",
+      "brand":"ClimbOn Hand Spray",
+      "price": "799",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/f/bff8e328904035421262-new1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick." 
+    },
+    {
+      "item_code": 3,
+      "category": "Hand sanitiseres",
+      "product_name": "Instant Hand Sanitizer",
+      "rating": "★★★★✩",
+      "brand":"ClimbOn Hand Spray",
+      "price": "170",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/9/8901396381501_new_1_.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."     },
+    {
+      "item_code": 4,
+      "category": "Hand sanitiseres",
+      "product_name": "Lemon sanitiseres",
+      "rating": "★★★★✩",
+      "brand":"ClimbOn Hand Spray",
+      "price": "120",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/5/45d7cf28904035425208-1.jpg",
+      "description": "Nyka Matte Ink Liquid Lipstick."    },
+    {
+      "item_code": 5,
+      "category": "Hand sanitiseres",
+      "product_name": "Lavender sanitiseres",
+      "rating": "★★★★✩",
+      "brand":"ClimbOn Hand Spray",
+      "price": "189",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/c/bc803c6theac00000059_1.jpg",
+      "color": "Cream",
+      "description": "Nyka Matte Ink Liquid Lipstick."
+    },
+    {
+      "item_code": 1,
+      "category": "Lipstick",
+      "product_name": "Creamy Matte Lipstick",
+      "rating": "★★★★✩",
+      "brand":"Elle 18",
+      "price": "239",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/7/d7afde88904320716783_1.jpg",
+      "description": "SUGAR Smudge"
+    },
+    {
+      "item_code": 2,
+      "category": "Lipstick",
+      "product_name": "M.A.C Matte Lipstick",
+      "rating": "★★★★✩",
+      "brand":"Elle 18",
+      "price": "299",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/3/5374bc88904320701833.jpg",
+      "description": "SUGAR Smudge"
+    },
+    {
+      "item_code": 3,
+      "category": "Lipstick",
+      "product_name": "Maybelline Lipstick",
+      "rating": "★★★★✩",
+      "brand":"Elle 18",
+      "price": "899",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/8/0/8055a5aSUGAR00000447_1.jpg",
+      "description": "SUGAR Smudge"      
+    },
+    {
+      "item_code": 4,
+      "category": "Lipstick",
+      "product_name": "Lakme Absolute Matte",
+      "rating": "★★★★✩",
+      "brand":"Elle 18",
+      "price": "359",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/8/08830c2SUGARVB21_1.jpg",
+      "description": " Me Not Lip Duo."
+    
+    },
+    {
+      "item_code": 5,
+      "category": "Lipstick",
+      "product_name": "Renee Cosmetics FAB5",
+      "rating": "★★★★✩",
+      "brand":"Elle 18",
+      "price": "359",
+      "img": "https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/3/0366a498904320702274_1.jpg",
+      "description": " Me Not Lip Duo."
+      
+    }
+  ]
+);
